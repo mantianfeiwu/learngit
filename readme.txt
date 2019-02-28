@@ -6,3 +6,4 @@ Creating a new branch is quick & simple.
 master
 feature1
 分支管理策略
+summer
